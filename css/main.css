@@ -1,1 +1,114 @@
 /* Los estilos de tu proyecto */
+#navbar {
+   align-items: center;
+  margin-bottom: 0;
+  padding-right: 3em;
+  padding-top: 1em;
+
+}
+.navbar a:hover {
+  color: white;
+  text-decoration: none;
+}
+.section2{
+  background-image: url("../assets/images/taxi.jpg");
+  background-size: cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  padding-top: 20em; 
+  padding-bottom:20em;
+}
+.jumbo{
+	background-color: #ffab40;
+	font-family: 'Oxygen', sans-serif;
+	padding-left: 3em;
+	padding-bottom: 2em;
+	padding-top:2em;
+	color: white;
+}
+.enjoy{
+	font-size: 2em;
+	margin:0;
+}
+.travel{
+	font-size: 1.5em;
+}
+.btngood::before, .btngood::after{
+	content:" ";
+	width:70px;
+	border:1px solid white;
+	display: inline-block;
+	margin: 0 10px;
+	text-align: center;
+}
+.section3{
+	background-color:#ffab40; 
+	font-family: 'Oxygen', sans-serif;
+	padding: 3em;
+	
+}
+.download{
+	padding-top: 3em;
+	color: white;
+}
+.par{
+	color:white;
+	padding-right: 10em;
+}
+.bordercell{
+	border-right:0.1em solid white;
+	border-top:0.1em solid white;
+	border-bottom:0.1em solid white;
+}
+.section4{
+  	background-image: url("../assets/images/conduce.jpg");
+  	background-size: cover;
+  	background-position: center center;
+  	background-repeat: no-repeat;
+  	padding-bottom:13em;
+}
+.driver{
+	background-color:#000;
+	color:white;
+	opacity: 0.8;
+	filter:alpha(opacity=60);
+	padding: 5em;
+}
+.section5{
+	background:#ffab40;
+	font-family: 'Oxygen', sans-serif;
+	padding: 3em;
+}
+.tarifa{
+  	color:white;
+  	padding: 1em;
+}
+.consulta{
+  	color:white;
+  	padding: 1em;
+  	font-size: 17px;
+}
+.input-partida{
+  	background-color: transparent;
+  	border-color: white;
+  	color:white;
+}
+.input-destino{
+  background-color: transparent;
+  border-color: white;
+  border-radius: 3em;
+  color:white;
+  box-shadow: none;
+}
+.mapa {
+ 	border: 2px solid white;
+	height: 400px;
+	width: 400px;
+}
+.footer{
+	background-color: #2B2B2B;
+	font-family: 'Oxygen', sans-serif;
+	padding: 10em ;
+
+
+	
