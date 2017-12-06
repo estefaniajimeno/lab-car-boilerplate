@@ -108,14 +108,16 @@
 .footer{
 	background-color: #2B2B2B;
 	font-family: 'Oxygen', sans-serif;
-	padding: 10em ;
+	padding: 6em ;
 }
 .iconos{
-  	border-bottom: 1px solid white;
-	padding-bottom: 2em;
-	padding-left: 0;
-	margin-bottom: 2em;
-}
+  	color:white;
+	padding-right: 0.5em;
+	padding-top: 10em;
 
+}
+.labcar{
+	color: white;
+}
 
 	
